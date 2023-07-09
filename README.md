@@ -6,4 +6,4 @@ Rest API по работе с банковским счетом. На данно
 4. transferMoney - перевод заданной суммы со счета одного пользователя на счет другого пользователя.
 Схема базы данных:
 
-![alt text](https://github.com/DzmitryLukyanau/images/blob/main/schemeDB.png)
+![alt text](https://github.com/DzmitryLukyanau/images/blob/main/Схема.png)
